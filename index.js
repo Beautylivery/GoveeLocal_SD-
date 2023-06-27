@@ -7,7 +7,7 @@
 const MACTIONS = {};
 
 // Action Events
-const sampleClockAction = new Action("com.elgato.sample-clock.action");
+const sampleClockAction = new Action("de.beautylivery.goveelocal");
 const myGovee = new Govee();
 
 sampleClockAction.onWillAppear(({ context, payload }) => {

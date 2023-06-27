@@ -25,7 +25,7 @@
             },
             "SupportedInMultiActions": false,
             "Tooltip": "ManageColor",
-            "UUID": "com.elgato.sample-clock.action"
+            "UUID": "de.beautylivery.goveelocal"
         }
     ],
     "SDKVersion": 2,

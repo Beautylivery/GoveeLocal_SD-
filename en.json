@@ -2,7 +2,7 @@
 	"Description": "Manage Govee in Local Network", 
 	"Name": "Govee Local",
 	"Category": "Govee Local",
-	"com.elgato.sample-clock.action": {
+	"de.beautylivery.goveelocal": {
 		"Name": "Govee Local",
 		"Tooltip": "Govee Local"
 	},
