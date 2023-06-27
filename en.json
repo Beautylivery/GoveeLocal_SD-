@@ -1,0 +1,12 @@
+{
+	"Description": "Manage Govee in Local Network", 
+	"Name": "Govee Local",
+	"Category": "Govee Local",
+	"com.elgato.sample-clock.action": {
+		"Name": "Govee Local",
+		"Tooltip": "Govee Local"
+	},
+	"Localization": {
+		"Weekday": "Weekday"
+	}
+}
